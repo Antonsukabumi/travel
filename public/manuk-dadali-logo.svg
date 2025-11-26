@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Manuk Dadali Relawan Heri Gunawan</title>
+  <desc id="desc">Perisai merah putih dengan kepala burung emas dan pita biru bertuliskan Heri Gunawan</desc>
+  <defs>
+    <linearGradient id="shieldGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f7f7f7"/>
+    </linearGradient>
+  </defs>
+  <g stroke-width="8" stroke="#111" fill="none">
+    <path fill="url(#shieldGradient)" d="M180 12c55 0 110 14 136 30v146c0 92-66 166-136 212-70-46-136-120-136-212V42c26-16 81-30 136-30z"/>
+    <path fill="#a51018" d="M180 38c45 0 90 10 112 22v124c0 75-49 135-112 178-63-43-112-103-112-178V60c22-12 67-22 112-22z"/>
+  </g>
+
+  <path fill="#f2c230" stroke="#111" stroke-width="5" d="M137 96c24-32 89-36 111 0 7 11-6 37-6 37l-50 12-52-14s-9-24-3-35z"/>
+  <path fill="#f7c948" stroke="#111" stroke-width="4" d="M143 102c19-25 69-28 85 0 5 8-5 27-5 27l-38 9-39-10s-7-18-3-26z"/>
+  <path fill="#111" d="M180 83c23-18 62-10 62 0s-21-6-36 2c-16 7-34 5-26-2z"/>
+
+  <g fill="#a51018" font-family="Montserrat, Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="180" y="210" font-size="54">MANUK</text>
+    <text x="180" y="260" font-size="62">DADALI</text>
+  </g>
+
+  <g transform="translate(0 8)">
+    <rect x="100" y="270" width="160" height="46" rx="8" fill="#ffffff" stroke="#0d3f8d" stroke-width="4"/>
+    <text x="180" y="302" fill="#0d3f8d" font-family="Montserrat, Arial, sans-serif" font-size="32" font-weight="700" text-anchor="middle">
+      RELAWAN
+    </text>
+  </g>
+
+  <g transform="translate(0 12)">
+    <path fill="#0c5e90" stroke="#093c59" stroke-width="4" d="M52 330l50-16h206l-54 16 54 16H102z"/>
+    <text x="180" y="344" fill="#ffffff" font-family="Montserrat, Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle">
+      HERI GUNAWAN
+    </text>
+  </g>
+</svg>
+
